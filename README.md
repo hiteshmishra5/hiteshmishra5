@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/tweetbyhitesh" target="blank"><img src="https://img.shields.io/twitter/follow/tweetbyhitesh?logo=twitter&style=for-the-badge" alt="tweetbyhitesh" /></a> </p>
 
-- 🔭 I’m currently working on [Digit Educator]( )
+- 🔭 I’m currently working in [CorePeelers]( )
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
