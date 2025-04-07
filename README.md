@@ -1,6 +1,6 @@
 <!--![MasterHead](https://storage.googleapis.com/pai-images/6b38cfb169fa4e6ba85828ad0f10baf2.jpeg)](https://portfoliodivyansh.netlify.app/)-->
 <h1 align="center">Hi 👋, I'm Hitesh Mishra</h1>
-<h3 align="center">I write code.</h3>
+<h3 align="center">Python Developer.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
